@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Prajwal Patil 👋
 
-<!--
-**prajwalpatil900/prajwalpatil900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 M.Sc. Data Science Student
+- 💼 AI/GenAI Intern at Fulcrum Digital
+- 🌱 Learning LangChain, RAG, LLMs, OpenAI APIs
+- 📊 Interested in Machine Learning and Data Science
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- SQL
+- MongoDB
+- Pandas
+- NumPy
+- Streamlit
+- LangChain
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- AI Function Calling
+- RAG Chatbot
+- E-Pharmacy Price Comparison
+- WhatsApp Chat Analyzer
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/prajwal-patil-6a4279361/
+- Email: Prajwal.Patil@fulcrumdigital.com
+
+⭐ Thanks for visiting my profile!
